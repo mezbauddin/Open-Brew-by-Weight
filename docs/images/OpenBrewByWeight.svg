@@ -1,17 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 64" role="img" aria-label="Open Brew by Weight">
-  <title>Open Brew by Weight</title>
-  <style>
-    .mark,.name{fill:#a83b21}.lead{fill:#242424}
-    @media (prefers-color-scheme:dark){.mark,.name{fill:#c45c38}.lead{fill:#efefef}}
-  </style>
-  <mask id="cut" maskUnits="userSpaceOnUse" x="0" y="0" width="64" height="64">
-    <rect width="64" height="64" fill="#fff"/>
-    <path fill="none" stroke="#000" stroke-width="7.13" d="M32 0v27.55m0 20.9V64"/>
-    <path fill="none" stroke="#000" stroke-width="7.6" stroke-linecap="round" d="M32 48.45 21.62 36.08"/>
-    <circle cx="32" cy="27.55" r="6.27"/>
-    <circle cx="31.34" cy="48.45" r="6.27"/>
-  </mask>
-  <path class="mark" mask="url(#cut)" d="M32 5s20 16 20 34a20 20 0 0 1-40 0C12 21 32 5 32 5z"/>
-  <text class="lead" x="62" y="28" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-size="16" font-weight="300" letter-spacing=".2">Open Brew</text>
-  <text class="name" x="62" y="52" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-size="23" font-weight="800" letter-spacing="-.4">by Weight</text>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" aria-label="Open Brew by Weight" role="img" viewBox="0 0 240 64"><title>Open Brew by Weight</title><style>.mark,.name{fill:#a83b21}.lead{fill:#242424}@media (prefers-color-scheme:dark){.mark,.name{fill:#c45c38}.lead{fill:#efefef}}</style><mask id="cut" width="64" height="64" x="0" y="0" maskUnits="userSpaceOnUse"><rect width="64" height="64" fill="#fff"/><path fill="none" stroke="#000" stroke-width="7.13" d="M32 0v27.55m0 20.9V64"/><path fill="none" stroke="#000" stroke-linecap="round" stroke-width="7.6" d="M32 48.45 21.62 36.08"/><circle cx="32" cy="27.55" r="6.27"/><circle cx="31.34" cy="48.45" r="6.27"/></mask><path d="M32 5s20 16 20 34a20 20 0 0 1-40 0C12 21 32 5 32 5z" class="mark" mask="url(#cut)"/><text x="62" y="28" class="lead" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-size="16" font-weight="300" letter-spacing=".2">Open Brew</text><text x="62" y="52" class="name" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-size="23" font-weight="800" letter-spacing="-.4">by Weight</text></svg>
